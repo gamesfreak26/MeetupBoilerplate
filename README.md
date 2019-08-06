@@ -1,10 +1,10 @@
 # MeetupBoilerplate
-Boilerplate Cheat-Sheet for Running the Data Science Meetup in Brisbane
+Boilerplate Cheat-Sheet for Running the Brisbane Testing Meetup
 
 ## Start of Meetup
 
-- Thanks to Sponsors
-- Mention of code of conduct and please speak to organisers if anything uncomfortable or in violation of code occurs
+- Thanks to Sponsors (Ministry of Testing, ThoughtWorks)
+- Mention [code of conduct](https://www.ministryoftesting.com/testbash-code-of-conduct) and say "If you notice anything that violates the Code of Conduct, or if anything makes you feel uncomfortable for any reason at this meetup, please let myself or \[other nominated organisers\] know about it. You can talk to us in person or contact us via the Meetup page."
 
 
 ## End of Meetup
